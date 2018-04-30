@@ -47,6 +47,10 @@ class UserListView(LoginRequiredMixin, ListView):
 # class Blogin(LoginView):
 #     form_class = BLoginForm
 
+=======
 
-class SecondTestView():
-    pass
+
+
+
+
+
